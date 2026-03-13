@@ -58,11 +58,8 @@
 
 ![alt text](empd6.16.png)
 
-### Name:
-     Swathi P N
+### Name: Swathi P N
 
-### Register Number:
-     212225230279
+### Register Number: 212225230279
 
-## Result: 
-     Thus the simulation on the Preprocessing in additive manufacturing is completed.
+## Result: Thus the simulation on the Preprocessing in additive manufacturing is completed.
