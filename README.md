@@ -1,5 +1,6 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 11-03-26
+
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -45,8 +46,23 @@
 
 ## Output:
 
+![alt text](empd6.11.png)
+
+![alt text](empd6.12.png)
+
+![alt text](empd6.13.png)
+
+![alt text](empd6.14.png)
+
+![alt text](empd6.15.png)
+
+![alt text](empd6.16.png)
+
 ### Name:
+     Swathi P N
+
 ### Register Number:
+     212225230279
 
 ## Result: 
-### Thus the simulation on the Preprocessing in additive manufacturing is completed.
+     Thus the simulation on the Preprocessing in additive manufacturing is completed.
